@@ -12,7 +12,7 @@ copyright: Copyright 2020 Designed by [Themefisher](https://themefisher.com) & D
 preloader: true # To disable preloader change value to false
 
 menu:
-  - name: Home 1
+  - name: Home 1 2
     url: /
   - name: About
     url: /about/
